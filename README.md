@@ -2,8 +2,8 @@
 # I love Coding 💙 and solving problems :)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/szymanek201)
-[![Frontend Mentor](https://www.frontendmentor.io/profile/mikolajszymczuk1](https://www.frontendmentor.io/profile/mikolajszymczuk1)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/szymanek201) 
+[![Frontend Mentor](https://www.frontendmentor.io/profile/mikolajszymczuk1](https://www.frontendmentor.io/profile/mikolajszymczuk1) 
 [![CodePen](https://codepen.io/mikolajszymczuk1](https://codepen.io/mikolajszymczuk1)
 
 # 💻 Tech Stack:
